@@ -1,0 +1,41 @@
+﻿body {   
+    background-image: url(images/backdrop.jpg);
+    background-size: 100% 100%;
+}
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: red;
+    margin-top: 1%;
+}
+
+#logo {
+    width: 300px;
+    height: auto;
+    margin-top: 1%;
+}
+img {
+    width: 50%;
+    height: auto;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p{
+    font: bolder;
+}
+
+.footer {
+    background-color:gainsboro;
+    font-size: 1em;
+    text-align: center;
+    color: black;
+    margin: 1%;
+    padding: 1%;
+}
